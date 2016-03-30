@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Placemark>
+  <Style>
+    <IconStyle>
+      <Icon>
+        <href>yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <name>United States</name>
+  <description></description>
+  <Point>
+    <coordinates> -76.4902,42.8538</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <Style>
+    <IconStyle>
+      <Icon>
+        <href>yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <name>India</name>
+  <description></description>
+  <Point>
+    <coordinates> 77.2074,28.6145</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <Style>
+    <IconStyle>
+      <Icon>
+        <href>yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <name>United Arab Emirates</name>
+  <description></description>
+  <Point>
+    <coordinates> 55.2640,25.1975</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <Style>
+    <IconStyle>
+      <Icon>
+        <href>yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <name>Phillipines</name>
+  <description></description>
+  <Point>
+    <coordinates> 121.7237,12.9219</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <Style>
+    <IconStyle>
+      <Icon>
+        <href>yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <name>Indonesia</name>
+  <description></description>
+  <Point>
+    <coordinates>122.4756,-4.0177</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <Style>
+    <IconStyle>
+      <Icon>
+        <href>yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <name>Nigeria</name>
+  <description></description>
+  <Point>
+    <coordinates>8.0090,9.4491</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <Style>
+    <IconStyle>
+      <Icon>
+        <href>yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <name>Canada</name>
+  <description></description>
+  <Point>
+    <coordinates> -96.7236,56.0966</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <Style>
+    <IconStyle>
+      <Icon>
+        <href>yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <name>Czech Republic</name>
+  <description></description>
+  <Point>
+    <coordinates>14.4375,50.0755</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <Style>
+    <IconStyle>
+      <Icon>
+        <href>yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <name>Germany</name>
+  <description></description>
+  <Point>
+    <coordinates>4.7131,50.4942</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <Style>
+    <IconStyle>
+      <Icon>
+        <href>yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <name>Spain</name>
+  <description></description>
+  <Point>
+    <coordinates>-3.6996,40.4125</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <Style>
+    <IconStyle>
+      <Icon>
+        <href>yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <name>United Kingdom</name>
+  <description></description>
+  <Point>
+    <coordinates> -0.1305,51.5070</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <Style>
+    <IconStyle>
+      <Icon>
+        <href>yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <name>Ireland</name>
+  <description></description>
+  <Point>
+    <coordinates>-7.9253,53.4234</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <Style>
+    <IconStyle>
+      <Icon>
+        <href>yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <name>Poland</name>
+  <description></description>
+  <Point>
+    <coordinates> 18.0011,53.1218</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <Style>
+    <IconStyle>
+      <Icon>
+        <href>yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <name>Portugal</name>
+  <description></description>
+  <Point>
+    <coordinates>-8.2274,39.4017</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <Style>
+    <IconStyle>
+      <Icon>
+        <href>yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <name>Singapore</name>
+  <description></description>
+  <Point>
+    <coordinates>103.8197,1.3520</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <Style>
+    <IconStyle>
+      <Icon>
+        <href>yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <name>Slovakia</name>
+  <description></description>
+  <Point>
+    <coordinates>19.6448,48.8054</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <Style>
+    <IconStyle>
+      <Icon>
+        <href>orange.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <name>United States</name>
+  <description></description>
+  <Point>
+    <coordinates>-75.6951,45.4209</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <Style>
+    <IconStyle>
+      <Icon>
+        <href>orange.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <name>India</name>
+  <description></description>
+  <Point>
+    <coordinates>77.5147,28.5975</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <Style>
+    <IconStyle>
+      <Icon>
+        <href>orange.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <name>Malaysia</name>
+  <description></description>
+  <Point>
+    <coordinates>101.6812,3.1268</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <Style>
+    <IconStyle>
+      <Icon>
+        <href>orange.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <name>Australia</name>
+  <description></description>
+  <Point>
+    <coordinates>151.2071,-33.8675</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <Style>
+    <IconStyle>
+      <Icon>
+        <href>orange.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <name>Hong kong</name>
+  <description></description>
+  <Point>
+    <coordinates> 114.1095,22.3964</coordinates>
+  </Point>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- version $Id: recache.xml,v 1.7 2013/10/10 04:51:41 Jot Exp $ -->
+<extension version="3.0" type="plugin" group="system" method="upgrade">
+  <name>JotEasyCron</name>
+  <author>Vladimir Kanich</author>
+  <creationDate>July 2014</creationDate>
+  <copyright>(C) 2010-2014 Vladimir Kanich. All rights reserved.</copyright>
+  <license>GNU General Public License version 2 or later</license>
+  <authorEmail>contact_on_web_site@jotcomponents.net</authorEmail>
+  <authorUrl>http://www.jotcomponents.net</authorUrl>
+  <version>1.0.1</version>
+  <description>PLG_JOTEASYCRON_XML_DESCRIPTION</description>
+  <files>
+    <filename plugin="joteasycron">joteasycron.php</filename>
+    <folder plugin="joteasycron">fields</folder>
+    <filename>index.html</filename>
+  </files>
+  <languages folder="language">
+    <language tag="en-GB">en-GB/en-GB.plg_system_joteasycron.ini</language>
+    <language tag="en-GB">en-GB/en-GB.plg_system_joteasycron.sys.ini</language>
+  </languages>
+  <config>
+    <fields name="params">
+      <fieldset name="basic" addfieldpath="/plugins/system/joteasycron/fields">
+        <field name="pwd" type="text" default="" label="JOTEASYCRON_PWD_LBL" description="JOTEASYCRON_PWD_DESC"/>
+        <field name="spacer" type="spacer" default="" label="JOTEASYCRON_CLEAN_SPACER" />
+        <field name="clean" type="radio" default="0" class="btn-group btn-group-yesno" label="JOTEASYCRON_CLEAN_LBL" description="JOTEASYCRON_CLEAN_DESC">
+          <option value="0">No</option>
+          <option value="1">Yes</option>
+        </field>
+        <field name="url_clean" type="cronurl" default="" class="alert alert-info" label="JOTEASYCRON_URL_LBL" description="JOTEASYCRON_PWD_DESC"/>
+        <field name="spacer1" type="spacer" default="" label="JOTEASYCRON_RECACHE1_SPACER" />
+        <field name="recache1" type="radio" default="0" class="btn-group btn-group-yesno" label="JOTEASYCRON_RECACHE_LBL" description="JOTEASYCRON_RECACHE_DESC">
+          <option value="0">No</option>
+          <option value="1">Yes</option>
+        </field>
+        <field name="filter1" type="textarea" rows="1" default="" label="JOTEASYCRON_FILTER_LBL" description="JOTEASYCRON_FILTER_DESC"/>
+        <field name="url_recache1" type="cronurl" default="" class="alert alert-info" label="JOTEASYCRON_URL_LBL" description="JOTEASYCRON_PWD_DESC"/>
+        <field name="spacer2" type="spacer" default="" label="JOTEASYCRON_RECACHE2_SPACER" />
+        <field name="recache2" type="radio" default="0" class="btn-group btn-group-yesno" label="JOTEASYCRON_RECACHE_LBL" description="JOTEASYCRON_RECACHE_DESC">
+          <option value="0">No</option>
+          <option value="1">Yes</option>
+        </field>
+        <field name="filter2" type="textarea" rows="1" default="" label="JOTEASYCRON_FILTER_LBL" description="JOTEASYCRON_FILTER_DESC"/>
+        <field name="url_recache2" type="cronurl" default="" class="alert alert-info" label="JOTEASYCRON_URL_LBL" description="JOTEASYCRON_PWD_DESC"/>
+        <field name="spacer3" type="spacer" default="" label="JOTEASYCRON_RECACHE3_SPACER" />
+        <field name="recache3" type="radio" default="0" class="btn-group btn-group-yesno" label="JOTEASYCRON_RECACHE_LBL" description="JOTEASYCRON_RECACHE_DESC">
+          <option value="0">No</option>
+          <option value="1">Yes</option>
+        </field>
+        <field name="filter3" type="textarea" rows="1" default="" label="JOTEASYCRON_FILTER_LBL" description="JOTEASYCRON_FILTER_DESC"/>
+        <field name="url_recache3" type="cronurl" default="" class="alert alert-info" label="JOTEASYCRON_URL_LBL" description="JOTEASYCRON_PWD_DESC"/>
+      </fieldset>
+    </fields>
+  </config>
+</extension>
